@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.0.9'
+
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -20,6 +20,8 @@ gem 'sqlite3'
 # Bundle the extra gems:
 # gem 'bj'
 # gem 'nokogiri'
+
+gem 'rails', '3.0.5'
 gem 'sqlite3-ruby', '1.3.2', :group => :development
 # gem 'aws-s3', :require => 'aws/s3'
 
